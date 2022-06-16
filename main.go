@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/aptible/supercronic/cron"
-	"github.com/aptible/supercronic/crontab"
-	"github.com/aptible/supercronic/log/hook"
-	"github.com/aptible/supercronic/prometheus_metrics"
+	"github.com/TeknooSoftware/supercronic/cron"
+	"github.com/TeknooSoftware/supercronic/crontab"
+	"github.com/TeknooSoftware/supercronic/log/hook"
+	"github.com/TeknooSoftware/supercronic/prometheus_metrics"
 	"github.com/evalphobia/logrus_sentry"
 	"github.com/sirupsen/logrus"
 )

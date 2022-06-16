@@ -75,13 +75,13 @@ Other details
 
 Install
 -------
-    go get github.com/aptible/supercronic/cronexpr
+    go get github.com/TeknooSoftware/supercronic/cronexpr
 
 Usage
 -----
 Import the library:
 
-    import "github.com/aptible/supercronic/cronexpr"
+    import "github.com/TeknooSoftware/supercronic/cronexpr"
     import "time"
 
 Simplest way:

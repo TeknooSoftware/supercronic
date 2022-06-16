@@ -77,8 +77,8 @@ Run the following to fetch Supercronic, install its dependencies, and install
 it:
 
 ```
-go get -d github.com/aptible/supercronic
-cd "${GOPATH}/src/github.com/aptible/supercronic"
+go get -d github.com/TeknooSoftware/supercronic
+cd "${GOPATH}/src/github.com/TeknooSoftware/supercronic"
 go mod vendor
 go install
 ```
@@ -288,8 +288,8 @@ Copyright (c) 2019 [Aptible][aptible]. All rights reserved.
 
   [aptible-logo]: https://raw.github.com/aptible/straptible/master/lib/straptible/rails/templates/public.api/icon-60px.png
   [blog-post]: https://www.aptible.com/blog/cron-for-containers-introduction-supercronic
-  [cronexpr]: https://github.com/aptible/supercronic/tree/master/cronexpr
-  [releases]: https://github.com/aptible/supercronic/releases
+  [cronexpr]: https://github.com/TeknooSoftware/supercronic/tree/master/cronexpr
+  [releases]: https://github.com/TeknooSoftware/supercronic/releases
   [dep]: https://github.com/golang/dep
   [aptible]: https://www.aptible.com
   [aptible-enclave]: https://www.aptible.com/enclave

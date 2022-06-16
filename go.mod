@@ -1,4 +1,4 @@
-module github.com/aptible/supercronic
+module github.com/TeknooSoftware/supercronic
 
 go 1.18
 
